@@ -1,0 +1,46 @@
+D RAKSHITHA
+    +91-7483915014 | www.d.rakshitha1427@gmail.com | Yelahanka, Bengaluru | Linkedin.com/in/d-rakshitha-b280a826a
+
+SUMMARY
+A Creative and strong in design and integration with intuitive problem-solving skills. Passionate about implementing and launching new Projects. Ability to translate business requirements into technical solution. A career which can sharpen my current skills and Knowledge and where I can have a good scope for learning and implementing new technologies, I am a fast learner and easily understand and adapt to new technologies.
+
+EDUCATION
+Bachelors of Engineering Information Science and Engineering                                                                          2022-Present
+Brindavan college of Engineering Yelahanka, Bengaluru                                                                                       CGPA:8.89
+
+Pre-University Education(PUC)                                                                                                                                 2022
+Jawahar Navodaya Vidyalaya,Doddaballapura                                                                                                     Percentage:81.4%
+
+Secondary School(SSLC)                                                                                                                                            2020
+Jawahar Navodaya Vidyalaya,Doddaballapura                                                                                                      Percentage:73%
+
+TECHNICAL SKILLS
+Programming Languages: AI & ML, Python, HTML
+Tools: Visual Studio, Jupyter Notebook
+Operating System: Windows, Android
+Libraries & Platforms: TensorFlow, Pandas, NumPy, Hugging Face, Groq AI, ChatGPT, Gemini
+
+CERTIFICATES
+• The Complete Python developer
+• Complete AI and Machine Learning Bootcamp
+
+AI TRAINING & INTERNSHIP EXPERIENCE
+1. BEPEC Solution    [Generative AI Developer]                     Status: Current (Remote)
+• Engineered AI workflows and automated systems using Python, APIs, and LLMs to significantly optimize execution speed and operational logic.
+
+2. Bharathi Unnathi India [AI Intern]                            Status: Current (Remote)
+• Implemented AI automation workflows and evaluated Generative AI platforms to streamline productivity and effectively reduce manual effort.
+
+MAJOR PROJECT
+SKIN DISEASE DETECTION USING ML
+Built a web app that checks skin lesions from photos using AI, training a PyTorch model on HAM10000 and deploying it with Django. Added camera capture and image upload, showing predictions with simple explanations. Designed a reliable preprocessing and inference pipeline for fast, consistent results. Created data and training scripts to clean datasets, train, and test the model. Focused on performance, usability, and an architecture that’s easy to update and extend.
+
+HOBBIES
+1) Reading Novels   2) Playing Games  3) Watching Movies
+
+STRENGTHS
+1) Self Motivated     2) Quick Learner       3) Hard Worker
+LANGUAGES
+English        Kannada      Hindi
+
+use this
