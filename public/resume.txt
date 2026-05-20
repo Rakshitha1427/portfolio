@@ -1,0 +1,52 @@
+D RAKSHITHA
+Generative AI Developer
+
+Phone: +91-7483915014
+Email: drakshitha1427@gmail.com
+Location: Bengaluru, Karnataka
+LinkedIn: linkedin.com/in/d-rakshitha-b280a826a
+GitHub: github.com/Rakshitha1427
+
+SUMMARY
+Aspiring AI & Software Developer passionate about building intelligent AI-powered applications, automation systems, and scalable solutions using modern AI technologies.
+
+TECHNICAL SKILLS
+Programming: Python, SQL, HTML, CSS
+AI/ML: TensorFlow, Scikit-learn, Deep Learning, NLP, Data Science, Generative AI
+Frameworks & Tools: FastAPI, Django, Streamlit, LangGraph, Hugging Face, Groq AI, ChatGPT, Gemini, Git, GitHub, VS Code, Google Colab, n8n
+
+EXPERIENCE
+BEPEC Solution — Generative AI Developer Intern (Remote)
+- Built AI automation workflows using Python APIs and LLM-based systems
+- Developed intelligent workflow automation solutions
+- Improved execution efficiency and reduced manual effort
+
+Bharat Unnati AI Fellowship — AI Intern (Remote)
+- Worked on Generative AI tools and automation systems
+- Built AI productivity workflows
+- Explored modern AI platforms and integrations
+
+PROJECTS
+Skin Disease Detection System
+- TensorFlow, Deep Learning, Django, Python
+- Developed CNN-based deep learning model for skin disease prediction
+- Applied image augmentation for improved accuracy
+- Integrated AI model with Django web application
+- Built intelligent image preprocessing pipeline
+
+AI Workflow Automation Assistant
+- Python, FastAPI, LangGraph, Streamlit, Generative AI
+- Built intelligent automation workflows using LLMs and APIs
+- Automated productivity tasks using AI agents
+- Designed scalable AI workflow pipelines
+- Integrated prompt engineering and AI decision systems
+
+CERTIFICATIONS
+- The Complete Python Developer
+- Bharat Unnati AI Internship Certificate
+- Complete AI and Machine Learning Bootcamp
+
+EDUCATION
+Brindavan College of Engineering — B.E Information Science Engineering — CGPA 8.89 — 2022 to 2026
+Jawahar Navodaya Vidyalaya — PUC — 81.4% — 2022
+Jawahar Navodaya Vidyalaya — SSLC — 73% — 2020

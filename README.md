@@ -1,3 +1,37 @@
+# D Rakshitha Portfolio
+
+A premium futuristic AI/ML engineer portfolio built with Next.js, React, Tailwind CSS, Framer Motion, and Lucide React.
+
+## Features
+
+- Dark mode by default with a light mode toggle
+- Glassmorphism panels and neon gradients
+- Animated hero typing effect
+- Sticky blurred navigation
+- Scroll progress bar and back-to-top button
+- Responsive single-page layout
+- Recruiter-friendly sections for skills, experience, projects, education, certifications, and contact
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+Open `http://localhost:3000`.
+
+## Build
+
+```bash
+npm run build
+```
+
+## Resume
+
+- `public/resume.txt` is linked from the site as the downloadable resume.
+- `public/resume.html` is a print-friendly fallback that can be saved as PDF from the browser.
+
 # Portfolio site for D RAKSHITHA
 
 This is a simple static portfolio site scaffolded from the resume provided. It can be hosted on GitHub Pages (like `username.github.io`) or any static host.
