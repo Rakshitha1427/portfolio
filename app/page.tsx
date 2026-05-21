@@ -207,7 +207,7 @@ export default function Page() {
                   View Projects <ArrowRight size={16} />
                 </a>
                 <a
-                  href="/resume.txt"
+                  href="/resume.pdf"
                   download
                   className="glow-button-secondary"
                 >
@@ -380,8 +380,8 @@ export default function Page() {
         <Reveal>
           <SectionTitle
             eyebrow="Projects"
-            title="Premium animated project cards built to impress immediately."
-            description="Each project highlights the tech stack, a recruiter-friendly summary, and hover interactions with glowing edges for a premium cyberpunk feel."
+            title="Selected projects"
+            description="Showcases AI and automation projects with concise summaries and technology stacks."
           />
         </Reveal>
 
@@ -407,8 +407,8 @@ export default function Page() {
         <Reveal>
           <SectionTitle
             eyebrow="Certifications"
-            title="Elegant credential cards that keep the interface minimal and sharp."
-            description="A clean certification section helps establish trust and keeps the portfolio balanced between technical depth and presentation quality."
+            title="Certifications"
+            description="Selected certifications and professional courses."
           />
         </Reveal>
 
@@ -525,7 +525,7 @@ export default function Page() {
               </div>
 
               <a
-                href="/resume.txt"
+                href="/resume.pdf"
                 download
                 className="glow-button-primary w-full justify-center"
               >
