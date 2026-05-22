@@ -1,0 +1,4 @@
+Redeploy trigger file
+Timestamp: 2026-05-22T08:20:00Z
+
+This file was added to force a GitHub commit so Netlify can redeploy and pick up the updated resume.pdf.
