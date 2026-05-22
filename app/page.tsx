@@ -23,6 +23,7 @@ import {
   TypingText,
 } from "@/components/interactive";
 import { Navbar } from "@/components/navbar";
+import { ResumeDownloadButton } from "@/components/resume-download";
 import {
   GlassCard,
   ProjectCard,
@@ -206,13 +207,7 @@ export default function Page() {
                 <a href="#projects" className="glow-button-primary">
                   View Projects <ArrowRight size={16} />
                 </a>
-                <a
-                  href="/resume.txt"
-                  download="D-Rakshitha-Resume.txt"
-                  className="glow-button-secondary"
-                >
-                  Download Resume <Download size={16} />
-                </a>
+                <ResumeDownloadButton className="glow-button-secondary" />
                 <a href="#contact" className="glow-button-secondary">
                   Contact Me <ExternalLink size={16} />
                 </a>
@@ -524,13 +519,7 @@ export default function Page() {
                 ))}
               </div>
 
-              <a
-                href="/resume.pdf"
-                download
-                className="glow-button-primary w-full justify-center"
-              >
-                Download Resume <Download size={16} />
-              </a>
+              <ResumeDownloadButton className="glow-button-primary w-full justify-center" />
             </GlassCard>
           </Reveal>
         </div>
