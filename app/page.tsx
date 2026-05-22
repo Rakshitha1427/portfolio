@@ -207,8 +207,8 @@ export default function Page() {
                   View Projects <ArrowRight size={16} />
                 </a>
                 <a
-                  href="/resume.pdf"
-                  download="D-Rakshitha-Resume.pdf"
+                  href="/resume.txt"
+                  download="D-Rakshitha-Resume.txt"
                   className="glow-button-secondary"
                 >
                   Download Resume <Download size={16} />
