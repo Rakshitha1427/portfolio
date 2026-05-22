@@ -30,6 +30,7 @@ npm run build
 ## Resume
 
 - `public/resume.txt` is linked from the site as the downloadable resume.
+ - `public/resume.pdf` is linked from the site as the downloadable resume.
 - `public/resume.html` is a print-friendly fallback that can be saved as PDF from the browser.
 
 # Portfolio site for D RAKSHITHA
