@@ -208,7 +208,7 @@ export default function Page() {
                 </a>
                 <a
                   href="/resume.pdf"
-                  download
+                  download="D-Rakshitha-Resume.pdf"
                   className="glow-button-secondary"
                 >
                   Download Resume <Download size={16} />
